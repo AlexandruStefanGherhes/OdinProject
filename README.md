@@ -1,2 +1,4 @@
 # OdinProject
+
 exercises
+Hello Odin!
